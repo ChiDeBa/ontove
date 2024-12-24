@@ -1,0 +1,13 @@
+@dataset{de_bastiani_2024_14551338,
+  author       = {De Bastiani, Chiara and
+                  Aiola, Chiara and
+                  Bertozzi, Alessandro and
+                  Buzzoni, Marina},
+  title        = {ChiDeBa/ontove: Initial Release},
+  month        = dec,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v1.0.1},
+  doi          = {10.5281/zenodo.14551338},
+  url          = {https://doi.org/10.5281/zenodo.14551338},
+}
